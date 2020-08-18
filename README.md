@@ -14,4 +14,4 @@ In this project, we will make use of Python to explore data related to bike shar
 * washington.csv
 
 ### Credits
-All credits por udacity.com
+All credits por udacity.com and Motivate
